@@ -1,4 +1,5 @@
-# polypstats
+
+# CORALAB
 
 #to install all required modules run
 pip install -r requirements.txt
