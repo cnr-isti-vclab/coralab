@@ -1,4 +1,4 @@
-# ![Coralab](src/coralab/images/coralab.png) Coralab
+# ![Coralab](./images/coralab.png) Coralab
 # CORALAB
 
 #to install all required modules run
